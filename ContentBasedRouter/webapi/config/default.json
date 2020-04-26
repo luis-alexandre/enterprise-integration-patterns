@@ -1,0 +1,9 @@
+{
+    "server": {
+      "port" : 5000
+    },
+    "rabbitMq": {
+      "host" : "amqp://localhost",
+      "inventoryQueue" : "inventory"
+    }
+  }
